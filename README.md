@@ -1,6 +1,6 @@
 # geo-ninjas
 
-> A Vue.js project
+> A Vue.js project with integration of Google Maps API and Geolocation API
 
 ## Build Setup
 
